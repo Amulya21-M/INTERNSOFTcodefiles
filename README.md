@@ -1,1 +1,1 @@
-# ITEERNSOFTcodefiles
+# INTERNSOFTcodefiles
